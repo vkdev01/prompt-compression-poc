@@ -1,0 +1,18 @@
+# selective-context is installed separately with --no-deps (see README)
+llmlingua
+spacy
+nltk
+transformers
+torch
+openai
+tiktoken
+requests
+certifi
+python-dotenv
+pandas
+matplotlib
+tabulate
+ipython
+fastapi
+uvicorn
+pydantic
